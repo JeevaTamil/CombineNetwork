@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "93B488F6-2696-4C77-8A8F-2C545C0DCA90"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DD115F1-0F5D-4A7E-B0E5-2B3AC4FE3537"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineNetwork/ViewModel/UserViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchUsers(endpoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2DD115F1-0F5D-4A7E-B0E5-2B3AC4FE3537 - b1732ea0dcd19f5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombineNetwork.UserListViewModel.fetchUsers(endpoint: CombineNetwork.URLEndPoint) -&gt; ()"
+                  moduleName = "CombineNetwork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azhagu-6139/Documents/xcode_projects/CombineNetwork/CombineNetwork/ViewModel/UserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1222">
+               </Location>
+               <Location
+                  uuid = "2DD115F1-0F5D-4A7E-B0E5-2B3AC4FE3537 - 35cbb0ad570f5c8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;CombineNetwork.UserResults, Swift.Error&gt;) -&gt; () in CombineNetwork.UserListViewModel.fetchUsers(endpoint: CombineNetwork.URLEndPoint) -&gt; ()"
+                  moduleName = "CombineNetwork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azhagu-6139/Documents/xcode_projects/CombineNetwork/CombineNetwork/ViewModel/UserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED29D07A-10DC-4EB2-AB10-28CC3423540D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineNetwork/Utils/URLEndPoints.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "buildUrlComponents(nation:results:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
